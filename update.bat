@@ -1,0 +1,1 @@
+yt-dlp -i --no-check-certificates --download-archive archive.txt -o "%%(upload_date)s_%%(title)s.%%(ext)s" "authentic.supportingcast.fm/content/eyJ0IjoicCIsImMiOiIxNzM5IiwidSI6IjE5NzA4MjAiLCJkIjoiMTY0Njc1MjI5NiIsImsiOjMwM318YWMzZDllZTkzZjdlNDc2NGI5MGM0MTg1Njc2M2Y3ZDBiMDllZjk4OWIwNzQzODAzNDNmYjJkMTA1NWNjNjExZA.rss"
